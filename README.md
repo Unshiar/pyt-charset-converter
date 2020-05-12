@@ -1,4 +1,7 @@
 # pyt-charset-converter
+
+Python 3.7
+
 Simple convert text files from one codepage to another.
 Usage example:
 
